@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "291760332628",
+    "firebase_url": "https://qrcodehotels.firebaseio.com",
+    "project_id": "qrcodehotels",
+    "storage_bucket": "qrcodehotels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291760332628:android:1295d311e33aa0bd",
+        "android_client_info": {
+          "package_name": "com.crumet.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291760332628-fml2591nis0pfi4ge7aahbvb128lfir5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGzPOpCXx2PzUmfPNfB-sizmyAzwDjpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
